@@ -1,5 +1,6 @@
 # Data Representation Week 1 Exercise
 Week one exercise: create XML file
+by Claire Drummond
 
 Exercise 1.1
 Create an XML file that stores data for a library. 
